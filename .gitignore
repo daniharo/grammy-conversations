@@ -21,7 +21,7 @@ package-lock.json
 *.tgz
 
 # Build output
-out/
+# out/
 
 # deno2node
 src/vendor/
